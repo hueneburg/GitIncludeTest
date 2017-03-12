@@ -11,6 +11,10 @@ Repo for testing Git integration. It also allows testing include and exclude pat
             - EXCLUDE.md
         - dir2
             - dir1
+                - Test1.cs
+                - Test2.cs
+                - Test1.java
+                - Test2.java
             - INCLUDE.md
             - EXCLUDE.md
     - dir2
@@ -18,3 +22,4 @@ Repo for testing Git integration. It also allows testing include and exclude pat
         - EXCLUDE.md
     - README.md
     - IGNORE.md
+    - LICENSE
